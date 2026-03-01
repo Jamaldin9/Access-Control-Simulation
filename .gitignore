@@ -1,0 +1,1 @@
+printf ".DS_Store\n*.png\n" > .gitignore

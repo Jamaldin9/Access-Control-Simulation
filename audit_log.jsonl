@@ -1,4 +1,4 @@
-{"ts": "2026-02-25T20:57:54", "user": "jamal", "permission": "read_docs", "result": "ALLOW", "reason": "has_permission"}
-{"ts": "2026-02-25T20:57:54", "user": "jamal", "permission": "reset_password", "result": "ALLOW", "reason": "has_permission"}
-{"ts": "2026-02-25T20:57:54", "user": "jamal", "permission": "read_docs", "result": "DENY", "reason": "user_disabled"}
-{"ts": "2026-02-25T20:57:54", "user": "jamal", "permission": "reset_password", "result": "DENY", "reason": "user_disabled"}
+{"ts": "2026-02-26T13:42:41", "user": "jamal", "permission": "read_docs", "result": "ALLOW", "reason": "has_permission"}
+{"ts": "2026-02-26T13:42:41", "user": "jamal", "permission": "reset_password", "result": "ALLOW", "reason": "has_permission"}
+{"ts": "2026-02-26T13:42:41", "user": "jamal", "permission": "read_docs", "result": "DENY", "reason": "user_disabled"}
+{"ts": "2026-02-26T13:42:41", "user": "jamal", "permission": "reset_password", "result": "DENY", "reason": "user_disabled"}
